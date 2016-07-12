@@ -1,0 +1,5 @@
+C:\Users\Administrator\Documents\GitHub\ASP.NET.1607.Day1.Task5.Suhov\ASP.NET.1607.Day1.Task5.Suhov\bin\Debug\ASP.NET.1607.Day1.Task5.Suhov.dll
+C:\Users\Administrator\Documents\GitHub\ASP.NET.1607.Day1.Task5.Suhov\ASP.NET.1607.Day1.Task5.Suhov\bin\Debug\ASP.NET.1607.Day1.Task5.Suhov.pdb
+C:\Users\Administrator\Documents\GitHub\ASP.NET.1607.Day1.Task5.Suhov\ASP.NET.1607.Day1.Task5.Suhov\obj\Debug\ASP.NET.1607.Day1.Task5.Suhov.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\ASP.NET.1607.Day1.Task5.Suhov\ASP.NET.1607.Day1.Task5.Suhov\obj\Debug\ASP.NET.1607.Day1.Task5.Suhov.dll
+C:\Users\Administrator\Documents\GitHub\ASP.NET.1607.Day1.Task5.Suhov\ASP.NET.1607.Day1.Task5.Suhov\obj\Debug\ASP.NET.1607.Day1.Task5.Suhov.pdb
